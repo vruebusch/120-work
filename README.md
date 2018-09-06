@@ -1,3 +1,3 @@
 # 120-work
 
-This is Michael Musick's repo for course work related to Creative Coding 1. 
+This is Victoria Ruebusch's repo for course work related to Creative Coding 1. 
