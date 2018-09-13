@@ -48,7 +48,7 @@ text("Hello World!", 250,200);
 
 **This is what my final sketch looks like:**
 
-![Homework 3 Sketch and "Hello World" webpage](images/hw-3_work_image.png)
+![Homework 3 Sketch and "Hello World" webpage](Images/hw-3_work_image.png)
 
 ## Issues
 
@@ -56,4 +56,4 @@ I didn't have any issues as this was a fairly straightforward lesson. I'm super 
 
 ## Final Thoughts
 
-I'm still blown away how all of this is possible and that there's so much we can create with code. I know we're just now learning basic stuff, but even this excites me because I get to see the outcome of my work (in a webpage). I'm thoroughly enjoying this course and can't wait to learn more about p5.js. I haven't been able to help out much on the issues board (yet) because I normally start my assignment later in the week than most people and haven't been able to look at the assignment for myself yet. I'll try to start sooner so that I can be of more help to others. Especially since I consider myself to be a problem solver (which is why I prefer to try and solve things on my own), but I could also give helping others a try. 
+I'm still blown away how all of this is possible and that there's so much we can create with code. I know we're just now learning basic stuff, but even this excites me because I get to see the outcome of my work (in a webpage). I'm thoroughly enjoying this course and can't wait to learn more about p5.js. I haven't been able to help out much on the issues board (yet) because I normally start my assignment later in the week than most people and haven't been able to look at the assignment for myself yet. I'll try to start sooner so that I can be of more help to others. Especially since I consider myself to be a problem solver (which is why I prefer to try and solve things on my own), but I could also give helping others a try.
