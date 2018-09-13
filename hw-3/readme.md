@@ -48,7 +48,7 @@ text("Hello World!", 250,200);
 
 **This is what my final sketch looks like:**
 
-![Homework 3 Sketch and "Hello World" webpage](hw-3_work_image.png)
+![Homework 3 Sketch and "Hello World" webpage](Images/hw-3_work_image.png)
 
 ## Issues
 
