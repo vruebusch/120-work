@@ -2,7 +2,7 @@ Victoria Ruebusch
 
 [Dog chases ball](https://vruebusch.github.io/120-work/hw-5/)
 
-# **HW-4 Response**
+# **HW-5 Response**
 
 ## Summary
 This week we learned how to animate using variables and the drawing functions we learned last week. We learned that the draw function is constantly looping which enables animation. My favorite thing learned this week is the `noCursor()` function which you can then replace with a shape. For my sketch, I replaced the cursor with a ball and had a dog chase it.
