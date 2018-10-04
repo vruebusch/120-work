@@ -1,5 +1,25 @@
-# Empty p5 sketch.
+Victoria Ruebusch
 
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
+[Bubbles](https://vruebusch.github.io/120-work/hw-6/)
 
-Current p5 version -> 0.7.1
+# **HW-5 Response**
+
+## Summary
+
+
+
+## Steps Taken
+- ffc
+- ffc1
+- ff
+- f
+
+**A Screenshot of my Final Sketch:**
+
+![Homework 6 Screenshot](hw_6_ss.png)
+
+## Issues
+
+
+
+## Final Thoughts
