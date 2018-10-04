@@ -2,7 +2,7 @@ Victoria Ruebusch
 
 [Bubbles](https://vruebusch.github.io/120-work/hw-6/)
 
-# **HW-5 Response**
+# **HW-6 Response**
 
 ## Summary
 
