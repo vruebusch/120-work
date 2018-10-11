@@ -50,6 +50,7 @@ The ball characteristics / draws the ball ↓
     ellipse(ball.x, ball.y, ball.width, ball.width);
 }
 ``
+
 Changes the angle of the ball path when mouse is pressed ↓
 
 ``function mousePressed() {
