@@ -5,7 +5,7 @@ Victoria Ruebusch
 # **HW-8 Response**
 
 ## Summary
-This week we learned about
+This week we learned about 'for loops' and 'while loops'. We learned that 'for loops' require the format: ``for(numberVariable , conditionalStatement , incrementDetails ) {}`` to work and 'while loops' use the format: ``while( conditionStatement) {}``. These are used to simplify code 
 
 ## Steps Taken
 
