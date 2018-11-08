@@ -1,9 +1,7 @@
 let droplets = [];
 
 function setup() {
-    createCanvas(windowWidth, 800)
-    let d = new Rain(width, height, 10);
-    droplets.push(d);
+    createCanvas(windowWidth, 800);
 }
 
 
