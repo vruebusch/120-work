@@ -31,3 +31,7 @@ This week I had many ideas, but no matter what I tried I couldn't it to work. I 
 ## Final Thoughts
 
 I feel disappointed in myself that I couldn't finish this assignment on time and couldn't get it to work. As we progress further, I'm feeling more discouraged as the lessons get harder.
+
+## My Code
+
+![Homework 11 Code](code.png)
