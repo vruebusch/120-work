@@ -1,6 +1,6 @@
 Victoria Ruebusch
 
-[HW-12 Live Sketch](https://vruebusch.github.io/120-work/hw-12/)
+[HW-12 Live Sketch. Hover over balls!](https://vruebusch.github.io/120-work/hw-12/)
 
 # **HW-12 Response**
 
