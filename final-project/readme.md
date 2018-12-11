@@ -10,7 +10,7 @@ I'm so happy that I was able to complete this sketch the way I had originally pl
 
 ## Steps Taken
 
-I focused on placing adding images to my sketch first--searching for the perfect kitten and hand. Next, I found sound effects to go along with my sketch. Lastly, for the most time consiming part, I worked on the actual code--making the kitten's eyes close when the hand hovers over a certain spot.
+I focused on placing adding images to my sketch first--searching for the perfect kitten and hand. I also edited the hand because I realized the original was upside down. I also duplicated and photoshopped the kitten for the closed eyes version. Next, I found sound effects to go along with my sketch. Lastly, for the most time consiming part, I worked on the actual code--making the kitten's eyes close when the hand hovers over a certain spot.
 
 ## Issues
 
