@@ -3,10 +3,10 @@ var purrSound;
 
 function preload() {
 
-//    purrSound = loadSound("Sound/Purring.mp3");
+   purrSound = loadSound("Purring.mp3");
 
-    img = loadImage('./Images/Hand.png');
-    img2 = loadImage('./Images/kitty.jpg');
+    img = loadImage('Hand.png');
+    img2 = loadImage('kitty.jpg');
 
 
 }
@@ -15,6 +15,9 @@ function setup() {
 
   createCanvas(600,windowHeight);
 
+  purrSound.play();
+  purrSound.setVolume(1);
+  purrSound.loop();
 }
 
 function draw() {
