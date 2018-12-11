@@ -3,7 +3,7 @@ var purrSound;
 
 function preload() {
 
-    purrSound = loadSound("Sound/Purring.mp3");
+//    purrSound = loadSound("Sound/Purring.mp3");
 
     img = loadImage('./Images/Hand.png');
     img2 = loadImage('./Images/kitty.jpg');
